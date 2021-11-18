@@ -20,6 +20,7 @@ La finalidad de este proyecto es tratar de encontrar un framework en Java que of
 5. Jmix (antes Plataforma CUBA) https://www.jmix.io/
 
 | Herramienta | Fecha de prueba | Timestamp de inicio | Timestamp de finalizacion |
+| ----------- | --------------- | ------------------- | ------------------------- |
 | Spring Roo | ~ | ~ | ~ |
 | Apache Isis | ~ | ~ | ~ |
 | OpenXava | ~ | ~ | ~ |
@@ -74,6 +75,7 @@ La calificacion del framework va del 1 al 10 tomando en cuenta los siguentes rub
 - Velocidad de configuracion
 
 |  | Spring Roo | Apache Isis | OpenXava | JHipster | Jmix |
+| --- | --- | --- | --- | --- | --- |
 | Funciones integradas | n/10 | n/10 | n/10 | n/10 | n/10 |
 | Facilidad de uso | n/10 | n/10 | n/10 | n/10 | n/10 |
 | Popularidad | n/10 | n/10 | n/10 | n/10 | n/10 |
